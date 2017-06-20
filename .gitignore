@@ -1,0 +1,16 @@
+
+*.opendb
+*.db
+*.obj
+*.pdb
+*.idb
+*.tlog
+*.ilk
+*.log
+*.exp
+*.pch
+bin_x64d/lib/strmbasd.lib
+bin_x64d/lib/dsutild.lib
+x64/Debug/PcrAdjust.lib
+x64/Debug/PcrAdjust.dll
+x64/Debug/PcrAdjust.ax
