@@ -14,3 +14,6 @@ bin_x64d/lib/dsutild.lib
 x64/Debug/PcrAdjust.lib
 x64/Debug/PcrAdjust.dll
 x64/Debug/PcrAdjust.ax
+.vs/PcrAdjust/v14/.suo
+/bin_x64/lib
+/x64/Release
