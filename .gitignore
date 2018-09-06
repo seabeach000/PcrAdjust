@@ -17,3 +17,4 @@ x64/Debug/PcrAdjust.ax
 .vs/PcrAdjust/v14/.suo
 /bin_x64/lib
 /x64/Release
+*.ipch
